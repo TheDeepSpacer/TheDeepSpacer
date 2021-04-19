@@ -1,8 +1,8 @@
 ### Hi there, I'm Lukas - aka [TheDeepSpacer][website] 👋
 
 ## I'm a Sysadmin, Gamer, and Nerd!
-- 🔭 I’m currently working on my [Website][website]!
-- 🥅 2020 Goals: Streaming on [Twitch][twitch]
+- 🔭 I’m currently working on a secret project!
+- 🥅 2021 Goals: Streaming on [Twitch][twitch]
 - ⚡ Fun fact: the cake is a lie
 
 ### Connect with me:
