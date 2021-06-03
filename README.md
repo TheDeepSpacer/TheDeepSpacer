@@ -30,7 +30,10 @@
 
 ---
 
-<img align="left" alt="TheDeepSpacer's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TheDeepSpacer&show_icons=true&hide_border=true" />
+<img height="220vw" src="https://github-readme-stats.vercel.app/api?username=TheDeepSpacer&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=blueberry" />
+
+<img height="220vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeepSpacer&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=blueberry"/>  
+</p> 
 
 [website]: https://thedeepspacer.de
 [twitter]: https://twitter.com/TheDeepSpacer
