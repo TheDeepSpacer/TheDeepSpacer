@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lukas👋</h1>
 <h3 align="left">I'm a Sysadmin, Gamer, and Nerd!</h3>
 
-- 🔭 I’m currently working on a secret project!
+- 🔭 I’m currently working on my Homelab!
 
 - 🥅 2021 Goals: Streaming on [Twitch][twitch]
 
